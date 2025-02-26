@@ -1,0 +1,22 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: Bingbot
+Allow:
+
+User-agent: Yahoo! Slurp
+Allow:
+
+User-agent: DuckDuckBot
+Allow:
+
+User-agent: Baiduspider
+Allow:
+
+User-agent: YandexBot
+Allow:
+
+User-agent: *
+Allow:
+
+Sitemap: https://siakad.stakterunabhakti.ac.id/news/kingisking.xml
